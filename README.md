@@ -9,5 +9,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 <p>
-  How does it work? <a target="_blank" href="https://linalozz.github.io/LinaLozano/">CLICK HERE</a>
+  How it works <a target="_blank" href=https://linalozz.github.io/LinaLozano/digitalclock.html">CLICK HERE</a>
 </p>
